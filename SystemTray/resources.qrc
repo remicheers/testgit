@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/SystemTray">
+        <file>resources/about.png</file>
+        <file>resources/chinese.png</file>
+        <file>resources/client.png</file>
+        <file>resources/config.png</file>
+        <file>resources/english.png</file>
+        <file>resources/exe.png</file>
+        <file>resources/exit.png</file>
+        <file>resources/home.png</file>
+        <file>resources/icon_.png</file>
+        <file>resources/language.png</file>
+        <file>resources/logo.ico</file>
+        <file>resources/logo.png</file>
+        <file>resources/menu.png</file>
+        <file>resources/server.png</file>
+        <file>resources/trayLogo.ico</file>
+        <file>resources/trayLogo.png</file>
+        <file>resources/trayLogo1.png</file>
+        <file>resources/URL.png</file>
+    </qresource>
+</RCC>

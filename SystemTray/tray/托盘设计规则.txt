@@ -1,0 +1,18 @@
+1.<root></root>表示根标签
+2.<menu></menu>表示菜单项，<menu></menu>里面可以嵌套菜单项，菜单项可以有任意层
+3.菜单中的属性
+id=表示的是当前的id名 
+
+其中class:表示托盘菜单的菜单项类型，比如通用的菜单项(国际化，退出等)，plugin，或者外部程序，或者网页等； 
+0表示分隔符，1表示通用的菜单项，2表示plugin，3表示外部程序，4表示网页，
+
+zh="" 表示中文
+tzh="" 表示繁体中文
+english="" 表示英文
+slot：表示对应槽函数的名称 
+img：表示对应图标的路径
+url:表示网址信息
+dirPath:表示工作路径
+exePath:表示.exe路径
+arg:先考虑无参数情况
+4.<trayIcon iconPath=""></trayIcon>iconPath:表示的是托盘图标的路径

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <trayIcon iconPath="./resources/icon_.png"></trayIcon>
+    <menu class="1" id="language" slot="" img="../../../resources/language.png" url="" dirPath="" exePath="" zh="" tzh="" english="">
+        <menu class="1" id="chinese" slot="MenuCreator::clickChinese" img="../../../resources/chinese.png" url="" dirPath="" exePath="" zh="" tzh="" english=""></menu>
+        <menu class="0"></menu>
+        <menu class="1" id="english" slot="MenuCreator::clickEnglish" img="../../../resources/english.png" url="" dirPath="" exePath="" zh="" tzh="" english=""></menu>
+    </menu>
+    <menu class="0"></menu>
+    <menu class="1" id="config" slot="" img="./image/config.png" url="" dirPath="" exePath="" zh="" tzh="" english="">
+        <menu class="1" id="server" slot="MainWindow::serverClicked" img="../../../resources/server.png" url="" dirPath="" exePath="" zh="" tzh="" english=""> </menu>
+        <menu class="0"></menu>
+        <menu class="1" id="client" slot="MainWindow::clientClicked" img="../../../resources/client.png" url="" dirPath="" exePath="" zh="" tzh="" english=""></menu>
+    </menu>
+    <menu class="0"></menu>
+</root>
+
+<!--<menu class="0"></menu>
+    <menu class="4" id="url测试" slot="" img="" url="www.baidu.com" dirPath="" exePath="" zh="" tzh="" english=""></menu>-->
+
+     <!--<menu class="1" id="config" slot="" img="D:/code/cubegalaxy/CG2021102001P_SZNH_CloudTeller/cube_tray/MainApp/resources/config.png" url="" dirPath="" exePath="" zh="" tzh="" english="">
+        <menu class="1" id="server" slot="" img="D:/code/cubegalaxy/CG2021102001P_SZNH_CloudTeller/cube_tray/MainApp/resources/server.png" url="" dirPath="" exePath="" zh="" tzh="" english=""> </menu>
+        <menu class="0"></menu>
+        <menu class="1" id="client" slot="" img="D:/code/cubegalaxy/CG2021102001P_SZNH_CloudTeller/cube_tray/MainApp/resources/client.png" url="" dirPath="" exePath="" zh="" tzh="" english=""></menu>
+    </menu>
+    <menu class="0"></menu>
+ <menu class="1" id="config">
+        <menu class="1" id="server" slot="MainWindow::serverClicked"></menu>
+        <menu class="0"></menu>
+        <menu class="1" id="client" slot="MainWindow::clientClicked"></menu>
+    </menu>
+    <menu class="0"></menu>
+    <menu class="3" id="exe测试" slot="" img="" url="" dirPath="C:\\Windows" exePath="C:\\Windows\\notepad.exe" zh="" tzh="" english=""></menu>
+    <menu class="0"></menu>
+-->
+
+     <!-- <menu class="0"></menu>
+    <menu class="4" id="url测试" slot="" img="" url="www.baidu.com" dirPath="" exePath="" zh="" tzh="" english=""></menu>
+    <menu class="3" id="exe测试" slot="" img="" url="" dirPath="C:\\Windows" exePath="C:\\Windows\\notepad.exe" zh="" tzh="" english=""></menu>-->
